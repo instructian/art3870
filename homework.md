@@ -2,25 +2,24 @@
 ```
 9/22/2016 --
 ```
-###### week2
-```
+###### week2```
 9/27/2016 - GitHub User Page
-9/29/2016 - 
+9/29/2016 - Lab 1 Contact Form
 ```
 ###### week3
 ```
-10/6/2015 - Personal Portfolio Page
-10/8/2015
+10/6/2015 - Lab 2 Personal Portfolio Page
+10/8/2015 -
 ```
 ###### week4
 ```
 10/13/2015
-10/15/2015 - Submit Project 1 Final Draft
+10/15/2015
 ```
 ###### week5
 ```
-10/20/2015 - Present Project 1 / Submit Project 1 Final Version
-10/22/2015
+10/20/2015 - Submit Project 1 Draft
+10/22/2015 - Present Project 1 / Submit Project 1 Final Version
 ```
 ###### week6
 ```
@@ -34,7 +33,7 @@
 ```
 ###### week8
 ```
-11/10/2015
+11/10/2015 - Lab 3 - Dynamic Page
 11/12/2015
 ```
 ###### week9
