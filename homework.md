@@ -4,32 +4,32 @@
 ```
 ###### week2
 ```
-9/27/2016 - github user page
+9/27/2016 - GitHub User Page
 9/29/2016 - 
 ```
 ###### week3
 ```
-10/6/2015
+10/6/2015 - Personal Portfolio Page
 10/8/2015
 ```
 ###### week4
 ```
 10/13/2015
-10/15/2015
+10/15/2015 - Submit Project 1 Final Draft
 ```
 ###### week5
 ```
-10/20/2015
+10/20/2015 - Present Project 1 / Submit Project 1 Final Version
 10/22/2015
 ```
 ###### week6
 ```
-10/27/2015 - Storyboard and Stylescape for LSS
+10/27/2015 - Storyboard for LSS
 10/29/2015
 ```
 ###### week7
 ```
-11/3/2015
+11/3/2015 - Stylescape for LSS
 11/5/2015
 ```
 ###### week8
