@@ -1,12 +1,13 @@
 ###### week1
 ```
-9/22/2016 -- Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages, 
-what is the web? what is design? what is a grid? what are media queries? basic responsive page on github using copy/paste
+9/22/2016 -- Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, 
+git.io user pages, what is the web? what is design? what is a grid? what are media queries? 
+basic responsive page on github using copy/paste
 ```
 ###### week2
 ```
-9/27/2016 - Foundation Grid - Personal Landing Page - Attention!, is this for me? , does it work?, what is it? 
-Bring Images (lg, md, sm)
+9/27/2016 - Foundation Grid - 
+Personal Landing Page - Attention!, is this for me? , does it work?, what is it? 
 9/29/2016 - Chapter 2, datatypes, functions, variable, add a dynamic greeting to landing page p.56 - uploading to ADA
 ```
 ###### week3
