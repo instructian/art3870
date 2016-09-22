@@ -1,3 +1,4 @@
+## Topics
 ###### week1
 ```
 9/22/2016 -- Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, 
