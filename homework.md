@@ -2,7 +2,8 @@
 ```
 9/22/2016 --
 ```
-###### week2```
+###### week2
+```
 9/27/2016 - GitHub User Page
 9/29/2016 - Lab 1 Contact Form
 ```
