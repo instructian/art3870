@@ -12,6 +12,7 @@ Attention!, is this for me? , does it work?, what is it?
 
 Chapter 2, datatypes, functions, variable, 
 add a dynamic greeting to landing page p.56 - uploading to ADA
+Styled Google Contact Form
 ```
 ###### week3  -  10/4/2016 - 10/6/2016
 ```
