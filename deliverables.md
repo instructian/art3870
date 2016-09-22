@@ -11,7 +11,7 @@ uploaded to GIT and ADA by **SATURDAY 5:00pm**
 ```
 ###### week3  -  10/4/2016 - 10/6/2016
 ```
-**Team submission** by team project manager - 
+_Team submission_ by team project manager - 
 Completed REDESIGN DESIGN BRIEF and Links to Asana and Pinterest collection (add me to Asana using my email) 
 submitted on BlackBoard by **SATURDAY 5:00pm**
 ```
