@@ -27,7 +27,7 @@ ART 3870 covers the use of the world wide web to make art. The course covers adv
 
 ##Required Text
 <br>JavaScript and JQuery: Interactive Front-End Web Development
-<br>HTML and CSS: Design and Build Websites(from art2830)
+<br>[HTML and CSS: Design and Build Websites](http://amzn.to/2d5HXbJ)(from art2830)
 <br>Other reading as assigned!
 
 ##Required Materials
