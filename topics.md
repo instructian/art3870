@@ -8,7 +8,8 @@ basic responsive page on github using copy/paste
 ```
 9/27/2016 - Foundation Grid - 
 Personal Landing Page - Attention!, is this for me? , does it work?, what is it? 
-9/29/2016 - Chapter 2, datatypes, functions, variable, add a dynamic greeting to landing page p.56 - uploading to ADA
+9/29/2016 - Chapter 2, datatypes, functions, variable, 
+add a dynamic greeting to landing page p.56 - uploading to ADA
 ```
 ###### week3
 ```
