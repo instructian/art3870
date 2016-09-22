@@ -25,32 +25,32 @@
 ###### week6
 ```
 10/27/2015 - Storyboard for LSS
-10/29/2015
+10/29/2015 - Lab 3 - Dynamic Page
 ```
 ###### week7
 ```
-11/3/2015 - Stylescape for LSS
-11/5/2015
+11/3/2015
+11/5/2015 - Lab 4 - Quotes Gallery
 ```
 ###### week8
 ```
-11/10/2015 - Lab 3 - Dynamic Page
-11/12/2015
+11/10/2015 - Stylescape for LSS
+11/12/2015 - Frame and counter for LSS
 ```
 ###### week9
 ```
-11/17/2015
-11/19/2015
+11/17/2015 - LSS with one change
+11/19/2015 - LSS with two changes
 ```
 ###### week10
 ```
-11/24/2015
-11/26/2015 --
+11/24/2015 - 
+11/26/2015 -- thanksgiving
 ```
 ###### week 11
 ```
-12/1/2015
-12/3/2015
+12/1/2015 - LSS Presentations
+12/3/2015 - LSS Presentations
 ```
 ###### December 8th Final Exams 
 
