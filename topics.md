@@ -57,7 +57,7 @@ LSS with one change
 
 LSS with two changes
 ```
-######   -  11/29/2016 - 11/31/2016
+###### week10  -  11/29/2016 - 11/31/2016
 ```
 Questions and Answers, working in class on LSS
 Thanksgiving / university closed
