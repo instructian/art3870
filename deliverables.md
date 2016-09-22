@@ -1,7 +1,7 @@
 ## DELIVERABLES
 #####week1 - 9/22/2016
 
-> Buy the BOOK http://amzn.to/2cZIs21, create the RESPONSIVE LANDING PAGE on username.github.io using copy/paste submitted on BlackBoard by **SATURDAY 5:00pm**
+> Buy the BOOK http://amzn.to/2cZIs21, create the RESPONSIVE LANDING PAGE on username.github.io using __copy/paste__ **or** __git push__ submitted on BlackBoard by **SATURDAY 5:00pm**
 
 ##### week2  -  9/27/2016 - 9/29/2016
 > Personal Landing page using Zurb Foundation grid with styled google contact form  uploaded to GIT and ADA by **SATURDAY 5:00pm**
