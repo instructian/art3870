@@ -14,8 +14,8 @@
 ```
 ###### week4
 ```
-10/13/2015 - Foundation Slider, Pinterest inspiration boards for project one, 
-10/15/2015 - Video hero, video background
+10/13/2015 - Foundation Slider, Pinterest inspiration boards for Project 1 Site
+10/15/2015 - Video hero, video background - bring video clips in three formats - 720p or better, 10-30 seconds
 ```
 ###### week5
 ```
@@ -24,32 +24,32 @@
 ```
 ###### week6
 ```
-10/27/2015 - CSS Animation - transition
-10/29/2015 - CSS Animation - transform
+10/27/2015 - CSS Animation - transition - trigger animation using javascript
+10/29/2015 - CSS Animation - transform - Discussion of Long Scrolling Site concepts
 ```
 ###### week7
 ```
-11/3/2015 - CSS Animation - sprites - bring sprite image strip
+11/3/2015 - CSS Animation - sprites - bring sprite image strip, what is JQuery and how do we use it? Pinterest for Long Scrolling Site
 11/5/2015 - Lab 4 - Quotes Gallery, Personal Portfolio
 ```
 ###### week8
 ```
-11/10/2015 - Stylescape for LSS
-11/12/2015 - Frame and counter for LSS
+11/10/2015 - Stylescape for Long Scrolling Site
+11/12/2015 - building a Frame and counter for LSS
 ```
 ###### week9
 ```
-11/17/2015 - Long Scrolling Site with one change
+11/17/2015 - LSS with one change
 11/19/2015 - LSS with two changes
 ```
 ###### week10
 ```
 11/24/2015 - 
-11/26/2015 -- thanksgiving
+11/26/2015 -- thanksgiving / university closed
 ```
 ###### week 11
 ```
 12/1/2015 - LSS Presentations
 12/3/2015 - LSS Presentations
 ```
-###### December 8th Final Exams 
+###### December 8th Final Exams 3:10pm to 6:00pm
