@@ -1,7 +1,7 @@
 ## DELIVERABLES
 ###### week1  -  9/22/2016
 ```
-Buy the [BOOK](http://amzn.to/2cZIs21), create the RESPONSIVE LANDING PAGE on username.github.io
+Buy the [BOOK](https://www.amazon.com/gp/product/1118531647/ref=as_li_ss_tl?ie=UTF8&&linkCode=ll1&tag=instructian-20&linkId=7666a2d607087afca8fa34f395581aae), create the RESPONSIVE LANDING PAGE on username.github.io
 ```
 ###### week2
 ```
