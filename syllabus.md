@@ -26,15 +26,15 @@ ART 3870 covers the use of the world wide web to make art. The course covers adv
 <br>**5 absences** = 3 full letter grade drops (A to D or B to F)
 
 ##Required Text
-JavaScript and JQuery: Interactive Front-End Web Development
-HTML and CSS: Design and Build Websites(from art2830)
-Other reading as assigned!
+<br>JavaScript and JQuery: Interactive Front-End Web Development
+<br>HTML and CSS: Design and Build Websites(from art2830)
+<br>Other reading as assigned!
 
 ##Required Materials
-sign up for copy.com and share your home folder with me
-Pens, markers, pencils, paper, notebook for sketching and note taking.
-Access to a computer and the internet for homework and study (volunteer for extra lab access)
-Access to software for completion of work (volunteer for extra lab access) Flash memory drive minimum 2G
+<br>Sign up for github.com and share your home folder with me
+<br>Pens, markers, pencils, paper, notebook for sketching and note taking.
+<br>Access to a computer and the internet for homework and study (volunteer for extra lab access)
+<br>Access to software for completion of work (volunteer for extra lab access) Flash memory drive minimum 2G
 
 ##Assessment Criteria
 Research/analysis/preparation
