@@ -2,14 +2,18 @@
 ###### week1  -  9/22/2016
 ```
 Buy the BOOK http://amzn.to/2cZIs21, create the RESPONSIVE LANDING PAGE on username.github.io using copy/paste
+submitted on BlackBoard by **SATURDAY 5:00pm**
 ```
 ###### week2  -  9/27/2016 - 9/29/2016
 ```
-Personal Landing page using Zurb Foundation grid with styled google contact form uploaded to GIT and ADA by **SATURDAY 5:00pm**
+Personal Landing page using Zurb Foundation grid with styled google contact form 
+uploaded to GIT and ADA by **SATURDAY 5:00pm**
 ```
 ###### week3  -  10/4/2016 - 10/6/2016
 ```
-**Team submission** by team project manager - Completed REDESIGN DESIGN BRIEF and Links to Asana and Pinterest collection (add me to your teams using my email) by **SATURDAY 5:00pm**
+**Team submission** by team project manager - 
+Completed REDESIGN DESIGN BRIEF and Links to Asana and Pinterest collection (add me to your teams using my email) 
+submitted on BlackBoard by **SATURDAY 5:00pm**
 ```
 ###### week4  -  10/11/2016 - 10/13/2016
 ```
