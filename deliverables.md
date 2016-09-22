@@ -12,18 +12,22 @@ uploaded to GIT and ADA by **SATURDAY 5:00pm**
 ###### week3  -  10/4/2016 - 10/6/2016
 ```
 **Team submission** by team project manager - 
-Completed REDESIGN DESIGN BRIEF and Links to Asana and Pinterest collection (add me to your teams using my email) 
+Completed REDESIGN DESIGN BRIEF and Links to Asana and Pinterest collection (add me to Asana using my email) 
 submitted on BlackBoard by **SATURDAY 5:00pm**
 ```
 ###### week4  -  10/11/2016 - 10/13/2016
 ```
-**Team submission** by team project manager All images to be used in Project uploaded to a google photo gallery and shared access to my university email by **SATURDAY 5:00pm**
-**Individual submission** of backgound video page on ADA and Github - link posted to Blackboard by **SATURDAY 5:00pm**
+**Team submission** by team project manager All images to be used in Project 
+uploaded to a google photo gallery and shared access to my university email by **SATURDAY 5:00pm**
+**Individual submission** of backgound video page on ADA and Github
+link posted to Blackboard by **SATURDAY 5:00pm**
 ```
 ###### week5  -  10/18/2016 - 10/20/2016
 ```
-**Team submission** by team project manager of PROJECT 1 PRESENTATION with links of the projec on each team members ADA account by **SATURDAY 5:00pm**
-**Individual submission** of Home page with working links to Project 1, video page, contact form by **SATURDAY 5:00pm**
+**Team submission** by team project manager of 
+PROJECT 1 PRESENTATION with links of the project on each team members ADA account by **SATURDAY 5:00pm**
+**Individual submission** 
+Home page with working links to Project 1, video page, contact form by **SATURDAY 5:00pm**
 **Individual submission** of TEAM PEER REVIEW **SATURDAY 5:00pm**
 **Individual submission** of PROJECT REFLECTION **SATURDAY 5:00pm**
 ```
