@@ -4,18 +4,18 @@
 ```
 ###### week2
 ```
-9/27/2016 - GitHub User Page
-9/29/2016 - Lab 1 Contact Form
+9/27/2016 - Foundation Grid
+9/29/2016 - Chapter 2, datatypes, functions, variable
 ```
 ###### week3
 ```
-10/6/2015 - Lab 2 Personal Portfolio Page
-10/8/2015 -
+10/6/2015 - Foundation Modals
+10/8/2015 - Chapter 3, if/else, objects, arrays
 ```
 ###### week4
 ```
-10/13/2015
-10/15/2015
+10/13/2015 - Foundation Slider
+10/15/2015 - Video
 ```
 ###### week5
 ```
@@ -24,12 +24,12 @@
 ```
 ###### week6
 ```
-10/27/2015 - Storyboard for LSS
-10/29/2015 - Lab 3 - Dynamic Page
+10/27/2015 - CSS Animation - transition
+10/29/2015 - CSS Animation - transform
 ```
 ###### week7
 ```
-11/3/2015
+11/3/2015 - CSS Animation - sprites
 11/5/2015 - Lab 4 - Quotes Gallery
 ```
 ###### week8
