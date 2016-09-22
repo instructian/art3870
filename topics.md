@@ -1,21 +1,21 @@
 ###### week1
 ```
-9/22/2016 -- Introductions, github,  user pages
+9/22/2016 -- Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages, what is the web? what is design? what is a grid? what are media queries? basic responsive page on github 
 ```
 ###### week2
 ```
-9/27/2016 - Foundation Grid
-9/29/2016 - Chapter 2, datatypes, functions, variable
+9/27/2016 - Foundation Grid - Personal Landing Page - Attention!, is this for me? , does it work?, what is it? Bring Images
+9/29/2016 - Chapter 2, datatypes, functions, variable, add a dynamic greeting to landing page p.56
 ```
 ###### week3
 ```
-10/6/2015 - Foundation Modals
-10/8/2015 - Chapter 3, if/else, objects, arrays
+10/6/2015 - Foundation Modals, Project 1 - teams, place, user profile, jobs, Asana, architecture
+10/8/2015 - Chapter 3, calling functions - if/else, objects, arrays, Project 1- action words and landing page and site architecture with assignments
 ```
 ###### week4
 ```
-10/13/2015 - Foundation Slider
-10/15/2015 - Video
+10/13/2015 - Foundation Slider, Pinterest inspiration boards for project one, 
+10/15/2015 - Video hero, video background
 ```
 ###### week5
 ```
