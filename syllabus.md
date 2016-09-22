@@ -26,7 +26,7 @@ ART 3870 covers the use of the world wide web to make art. The course covers adv
 <br>**5 absences** = 3 full letter grade drops (A to D or B to F)
 
 ##Required Text
-<br>JavaScript and JQuery: Interactive Front-End Web Development
+<br>[JavaScript and JQuery: Interactive Front-End Web Development](http://amzn.to/2d5IsCw)
 <br>[HTML and CSS: Design and Build Websites](http://amzn.to/2d5HXbJ)(from art2830)
 <br>Other reading as assigned!
 
