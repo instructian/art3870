@@ -1,11 +1,11 @@
 ###### week1
 ```
-9/22/2016 -- Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages, what is the web? what is design? what is a grid? what are media queries? basic responsive page on github 
+9/22/2016 -- Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages, what is the web? what is design? what is a grid? what are media queries? basic responsive page on github using copy/paste
 ```
 ###### week2
 ```
-9/27/2016 - Foundation Grid - Personal Landing Page - Attention!, is this for me? , does it work?, what is it? Bring Images
-9/29/2016 - Chapter 2, datatypes, functions, variable, add a dynamic greeting to landing page p.56
+9/27/2016 - Foundation Grid - Personal Landing Page - Attention!, is this for me? , does it work?, what is it? Bring Images (lg, md, sm)
+9/29/2016 - Chapter 2, datatypes, functions, variable, add a dynamic greeting to landing page p.56 - uploading to ADA
 ```
 ###### week3
 ```
@@ -29,8 +29,8 @@
 ```
 ###### week7
 ```
-11/3/2015 - CSS Animation - sprites
-11/5/2015 - Lab 4 - Quotes Gallery
+11/3/2015 - CSS Animation - sprites - bring sprite image strip
+11/5/2015 - Lab 4 - Quotes Gallery, Personal Portfolio
 ```
 ###### week8
 ```
@@ -39,7 +39,7 @@
 ```
 ###### week9
 ```
-11/17/2015 - LSS with one change
+11/17/2015 - Long Scrolling Site with one change
 11/19/2015 - LSS with two changes
 ```
 ###### week10
