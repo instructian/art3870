@@ -3,10 +3,10 @@
 
 > https://youtu.be/W4AViRgrgkU
 
-Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages, 
-Quick writing and pair share:  What is the web vs the internet? What is design? What is an  interface?  What kind of interfaces have you used in the last 24  hours?  
+>Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages, 
+>Quick writing and pair share:  What is the web vs the internet? What is design? What is an  interface?  What kind of >interfaces have you used in the last 24  hours?  
 
-Basic responsive page using media queries on github using copy/paste
+>Basic responsive page using media queries on github using copy/paste
 
 #### week2  -  9/27/2016 - 9/29/2016
 
