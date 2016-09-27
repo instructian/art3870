@@ -5,6 +5,7 @@
 
 ##### week2  -  9/27/2016 - 9/29/2016
 > Personal Landing page using Zurb Foundation grid with styled google contact form  uploaded to GIT and ADA and submitted on BlackBoard by **SATURDAY 5:00pm**
+> Think about three brick-and-motar stores that are in hayward of the bay area that you would redesign the website for next week.
 
 ##### week3  -  10/4/2016 - 10/6/2016
 > **Team submission** by team project manager -  Completed REDESIGN DESIGN BRIEF and Links to Asana and Pinterest collection (add me to Asana using my email)  submitted on BlackBoard by **SATURDAY 5:00pm**
