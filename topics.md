@@ -10,7 +10,7 @@ Basic responsive page using media queries on github using copy/paste
 
 ##### week2  -  9/27/2016 - 9/29/2016
 
-> Foundation Grid - what is a design grid?  Personal Landing Page Attention!, is this for me? , does it work?, what is it?  
+> Foundation Grid - What is a design grid?  Personal Landing Page Attention!, Is this for me? , Does it work?, What is it?  
 
 > Action Words : Culture, Customer, Voice, Feel, Impact, X-Factor Sketching, writing
 
