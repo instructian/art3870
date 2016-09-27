@@ -12,7 +12,7 @@ Basic responsive page using media queries on github using copy/paste
 
 > Foundation Grid - What is a design grid?  Personal Landing Page Attention!, Is this for me? , Does it work?, What is it?  
 
-> Action Words : Culture, Customer, Voice, Feel, Impact, X-Factor Sketching, writing
+> Define your customer and brand : Culture, Customer, Voice, Feel, Impact, X-Factor,  using this [definition document](https://github.com/instructian/art3870/blob/master/definition.pdf).
 
 > Laying out a landing page using Foundation Using pinterest for design inspiration - [Step-by-Step](https://github.com/instructian/art3870/wiki/Steps-for-Personal-Home-Page) in the wiki.
 
