@@ -14,7 +14,8 @@ Basic responsive page using media queries on github using copy/paste
 
 > Action Words : Culture, Customer, Voice, Feel, Impact, X-Factor Sketching, writing
 
-> Laying out a landing page using Foundation Using pinterest for design inspiration
+> Laying out a landing page using Foundation Using pinterest for design inspiration - [Step-by-Step](https://github.com/instructian/art3870/wiki/Steps-for-Personal-Home-Page) in the wiki.
+
 > **Semantic Code and Mobile First design** http://alistapart.com/article/organizing-mobile
 
 >Chapter 2, datatypes, functions, variable,  Making a dynamic greeting to landing page p.56  Making a Styled Google Contact Form Uploading to ADA and Git
