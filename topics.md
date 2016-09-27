@@ -10,9 +10,24 @@ Basic responsive page using media queries on github using copy/paste
 
 ##### week2  -  9/27/2016 - 9/29/2016
 
-> Foundation Grid - what is a design grid?  Personal Landing Page Attention!, is this for me? , does it work?, what is it?  Action Words : Culture, Customer, Voice, Feel, Impact, X-Factor Sketching, writing and laying out a landing page using Foundation Using pinterest for design inspiration
+> Foundation Grid - what is a design grid?  Personal Landing Page Attention!, is this for me? , does it work?, what is it?  
+
+> Action Words : Culture, Customer, Voice, Feel, Impact, X-Factor Sketching, writing
+
+> Laying out a landing page using Foundation Using pinterest for design inspiration
+> **Semantic Code and Mobile First design** http://alistapart.com/article/organizing-mobile
 
 >Chapter 2, datatypes, functions, variable,  Making a dynamic greeting to landing page p.56  Making a Styled Google Contact Form Uploading to ADA and Git
+
+> RESOURCES: 
+> Getting on Github - https://www.thinkful.com/learn/a-guide-to-using-github-pages/
+
+> A work about Frameworks - http://alistapart.com/article/frameworks
+
+> Get Zurb Foundation - http://foundation.zurb.com/sites/download.html/#customizeFoundation
+
+> Zurb Foundation Documentation - http://foundation.zurb.com/sites/docs/
+
 
 ##### week3  -  10/4/2016 - 10/6/2016
 
