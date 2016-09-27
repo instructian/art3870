@@ -21,11 +21,8 @@ Basic responsive page using media queries on github using copy/paste
 
 > RESOURCES: 
 > Getting on Github - https://www.thinkful.com/learn/a-guide-to-using-github-pages/
-
 > A work about Frameworks - http://alistapart.com/article/frameworks
-
 > Get Zurb Foundation - http://foundation.zurb.com/sites/download.html/#customizeFoundation
-
 > Zurb Foundation Documentation - http://foundation.zurb.com/sites/docs/
 
 
