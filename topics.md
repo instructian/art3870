@@ -1,9 +1,9 @@
-## Topics
+## Weekly Topics for ART3870 Web Development
 #### week1  -  9/22/2016
 
 > https://youtu.be/W4AViRgrgkU
 
->Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages, 
+>Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages,
 >Quick writing and pair share:  What is the web vs the internet? What is design? What is an  interface?  What kind of >interfaces have you used in the last 24  hours?  
 
 >Basic responsive page using media queries on github using copy/paste
@@ -20,7 +20,7 @@
 
 >Chapter 2, datatypes, functions, variable,  Making a dynamic greeting to landing page p.56  Making a Styled Google Contact Form Uploading to ADA and Git
 
-> RESOURCES: 
+> RESOURCES:
 > Getting on Github - https://www.thinkful.com/learn/a-guide-to-using-github-pages/
 > A work about Frameworks - http://alistapart.com/article/frameworks
 > Get Zurb Foundation - http://foundation.zurb.com/sites/download.html/#customizeFoundation
@@ -29,7 +29,7 @@
 
 #### week3  -  10/4/2016 - 10/6/2016
 
-> Project 1 - choose teams, choose place, user profile, jobs, Asana, architecture Foundation Modals - setting up teams on blackboard 
+> Project 1 - choose teams, choose place, user profile, jobs, Asana, architecture Foundation Modals - setting up teams on blackboard
 
 > Chapter 3, calling functions - if/else, objects, arrays,  Project 1- action words and landing page and site architecture with assignments
 
@@ -62,7 +62,7 @@
 
 #### week10  -  11/29/2016 - 11/31/2016
 
-> Questions and Answers, working in class on LSS 
+> Questions and Answers, working in class on LSS
 > Thanksgiving/ university closed
 
 #### week 11 - December 8th Final Exams 3:10pm to 6:00pm
