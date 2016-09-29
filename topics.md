@@ -20,6 +20,8 @@
 
 >Chapter 2, datatypes, functions, variable,  Making a dynamic greeting to landing page p.56  Making a Styled Google Contact Form Uploading to ADA and Git
 
+.Working in class to compelte and upload the pages to ADA and Github
+
 > RESOURCES:
 > Getting on Github - https://www.thinkful.com/learn/a-guide-to-using-github-pages/
 > A work about Frameworks - http://alistapart.com/article/frameworks
