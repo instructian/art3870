@@ -1,5 +1,5 @@
-# art3870
-ART 3870 covers the use of the world wide web to make art. The course covers advanced use of scripting techniques to create interactive Web sites and web apps. The class requires that you have taken ART 2810 Principles of Design and ART 2830 Web Design. 
+# ART3870 Syllabus
+ART 3870 covers the use of the world wide web to make art. The course covers advanced use of scripting techniques to create interactive Web sites and web apps. The class requires that you have taken ART 2810 Principles of Design and ART 2830 Web Design.
 <br>Professor **Ian Pollock**
 <br>Office location: **AE1231**
 <br>Office hours: **Wednesday by appointment (3:00-6:00pm)**
