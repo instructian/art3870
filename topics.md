@@ -31,14 +31,15 @@
 
 #### week3  -  10/4/2016 - 10/6/2016
 
-> Using Filezila, Project 1 - choose teams, choose site, consider user profiles,site architecture - setting up teams on blackboard
+> Using Filezila, Project 1 - choose teams, choose site, consider user profiles,site architecture - setting up teams and tasks on blackboard, ASANA, pinterest
 
-> Chapter 3, calling functions - if/else, objects, arrays,  Project 1- action words and landing page and site architecture with assignments
+> Foundation features, present ASANA and Pinterest inspiration boards for Project 1 Site
+> Project 1- action words and landing page and site architecture with assignments
 
 #### week4  -  10/11/2016 - 10/13/2016
 
-> Foundation Slider and other features, Pinterest inspiration boards for Project 1 Site
-> Video hero, video background - bring video clips in three formats -   720p or better, 10-30 seconds
+> DISCUSS READING of Chapter 2 (review before Tuesdays class) 
+> Working on site redesign in class in teams.
 
 #### week5  -  10/18/2016 - 10/20/2016
 
@@ -47,6 +48,7 @@
 
 #### week6  -  10/25/2016 - 10/27/2016
 
+> DISCUSS READING of Chapter 3 on TUESDAY, calling functions - if/else, objects, arrays,  
 > CSS Animation - transition - Discussion of Long Scrolling Site
 > concepts CSS Animation - transform
 
