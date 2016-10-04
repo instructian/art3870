@@ -31,7 +31,7 @@
 
 #### week3  -  10/4/2016 - 10/6/2016
 
-> Project 1 - choose teams, choose place, user profile, jobs, Asana, architecture Foundation Modals - setting up teams on blackboard
+> Using Filezila, Project 1 - choose teams, choose site, consider user profiles,site architecture - setting up teams on blackboard
 
 > Chapter 3, calling functions - if/else, objects, arrays,  Project 1- action words and landing page and site architecture with assignments
 
