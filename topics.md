@@ -39,6 +39,7 @@
 #### week4  -  10/11/2016 - 10/13/2016
 
 > DISCUSS READING of Chapter 2 [presentation](https://drive.google.com/a/csueastbay.edu/file/d/0B2NDv4EUdOLkX0NUbjVnNGVTUDg/view?usp=sharing) (review before Tuesdays class) [JSBIN](https://jsbin.com/) - [CODEACADEMY](https://www.codecademy.com/learn/learn-javascript) - [KHAN ACADEMY](https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming) - [CODECOMBAT](https://codecombat.com/students?_cc=LastRicePaint)
+
 > Working on site redesign in class in teams.
 
 #### week5  -  10/18/2016 - 10/20/2016
