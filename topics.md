@@ -38,7 +38,7 @@
 
 #### week4  -  10/11/2016 - 10/13/2016
 
-> DISCUSS READING of Chapter 2 (review before Tuesdays class) 
+> DISCUSS READING of Chapter 2 (review before Tuesdays class) JSBIN - [CODEACADEMY](https://www.codecademy.com/learn/learn-javascript) - KHAN ACADEMY
 > Working on site redesign in class in teams.
 
 #### week5  -  10/18/2016 - 10/20/2016
