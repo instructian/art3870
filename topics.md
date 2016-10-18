@@ -18,9 +18,7 @@
 
 > **Semantic Code and Mobile First design** http://alistapart.com/article/organizing-mobile
 
->Chapter 2, datatypes, functions, variable,  Making a dynamic greeting to landing page p.56  Making a Styled Google Contact Form Uploading to ADA and Git
-
-.Working in class to complete and upload the pages to ADA and Github
+>Chapter 2, datatypes, functions, variable,  Making a dynamic greeting to landing page p.56  Making a Styled Google Contact Form Uploading to ADA and Git .Working in class to complete and upload the pages to ADA and Github
 
 > RESOURCES:
 > Getting on Github - https://www.thinkful.com/learn/a-guide-to-using-github-pages/
@@ -44,7 +42,7 @@
 
 #### week5  -  10/18/2016 - 10/20/2016
 
-> [User Testing](art3870/userTesting.md) & Submit Project 1 Draft Pecha Kucha Presentation Project 1 / Submit
+> [User Testing](https://github.com/instructian/art3870/blob/master/userTesting.md) & Submit Project 1 Draft Pecha Kucha Presentation Project 1 / Submit
 > Project 1 Final Version
 
 #### week6  -  10/25/2016 - 10/27/2016
