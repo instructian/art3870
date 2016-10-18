@@ -44,7 +44,7 @@
 
 #### week5  -  10/18/2016 - 10/20/2016
 
-> Submit Project 1 Draft Pecha Kucha Presentation Project 1 / Submit
+> [User Testing](art3870/userTesting.md) & Submit Project 1 Draft Pecha Kucha Presentation Project 1 / Submit
 > Project 1 Final Version
 
 #### week6  -  10/25/2016 - 10/27/2016
