@@ -49,8 +49,7 @@
 
 > DISCUSS **READING of Chapter 3** on TUESDAY, calling functions - if/else, objects, arrays
 > CSS Animation - transition - Discussion of Long Scrolling Site
-> concepts CSS Animation - transform
-
+> Concepts CSS Animation - transform
 ~~~~
 <script>
 console.log("test");
