@@ -3,21 +3,16 @@
 
 > https://youtu.be/W4AViRgrgkU
 
->Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages,
->Quick writing and pair share:  What is the web vs the internet? What is design? What is an  interface?  What kind of >interfaces have you used in the last 24  hours?  
-
->Basic responsive page using media queries on github using copy/paste
+>Introductions, Syllabus Recognisance, Reciprocal Interview, github account, toggle account, git.io user pages<br>
+>Quick writing and pair share:  What is the web vs the internet? What is design? What is an  interface?  What kind of >interfaces have you used in the last 24  hours? <br>
+>Basic responsive page using media queries on github using copy/paste<br>
 
 #### week2  -  9/27/2016 - 9/29/2016
 
-> Foundation Grid - What is a design grid?  Personal Landing Page Attention!, Is this for me? , Does it work?, What is it?  
-
-> Define your customer and brand : Culture, Customer, Voice, Feel, Impact, X-Factor,  using this [definition document](https://github.com/instructian/art3870/blob/master/definition.pdf).
-
-> Laying out a landing page using Foundation Using pinterest for design inspiration - [Step-by-Step](https://github.com/instructian/art3870/wiki/Steps-for-Personal-Home-Page) in the wiki.
-
-> **Semantic Code and Mobile First design** http://alistapart.com/article/organizing-mobile
-
+> Foundation Grid - What is a design grid?  Personal Landing Page Attention!, Is this for me? , Does it work?, What is it?  <br>
+> Define your customer and brand : Culture, Customer, Voice, Feel, Impact, X-Factor,  using this [definition document](https://github.com/instructian/art3870/blob/master/definition.pdf).<br>
+> Laying out a landing page using Foundation Using pinterest for design inspiration - [Step-by-Step](https://github.com/instructian/art3870/wiki/Steps-for-Personal-Home-Page) in the wiki.<br>
+> **Semantic Code and Mobile First design** http://alistapart.com/article/organizing-mobile<br>
 >Chapter 2, datatypes, functions, variable,  Making a dynamic greeting to landing page p.56  Making a Styled Google Contact Form Uploading to ADA and Git .Working in class to complete and upload the pages to ADA and Github<br>
 
 > RESOURCES:<br>
@@ -25,7 +20,6 @@
 > A work about Frameworks - http://alistapart.com/article/frameworks<br>
 > Get Zurb Foundation - http://foundation.zurb.com/sites/download.html/#customizeFoundation<br>
 > Zurb Foundation Documentation - http://foundation.zurb.com/sites/docs/<br>
-
 
 #### week3  -  10/4/2016 - 10/6/2016
 
@@ -46,7 +40,7 @@
 
 #### week5  -  10/18/2016 - 10/20/2016
 
-> [User Testing](https://github.com/instructian/art3870/blob/master/userTesting.md) & Submit Project 1 Draft Pecha Kucha Presentation Project 1 / Submit
+> [User Testing](https://github.com/instructian/art3870/blob/master/userTesting.md) & Submit Project 1 Draft Pecha Kucha Presentation Project 1 / Submit<br>
 > Project 1 Final Version
 
 #### week6  -  10/25/2016 - 10/27/2016
@@ -64,9 +58,9 @@ console.log("test");
 
 #### week7  -  11/1/2016 - 11/3/2016
 
-><br>CSS Animation - sprites - bring sprite image strip,  what is JQuery and how do we use it? 
-><br>Pinterest for Long Scrolling Site How to trigger animations using javascript and JQuery
-><br>Lab 4 - Quotes Gallery, Personal Portfolio
+>CSS Animation - sprites - bring sprite image strip,  what is JQuery and how do we use it? <br>
+>Pinterest for Long Scrolling Site How to trigger animations using javascript and JQuery<br>
+>Lab 4 - Quotes Gallery, Personal Portfolio
 
 #### week8  -  11/8/2016 - 11/10/2016
 
@@ -78,7 +72,7 @@ console.log("test");
 
 #### week10  -  11/29/2016 - 11/31/2016
 
-> Questions and Answers, working in class on LSS
+> Questions and Answers, working in class on LSS<br>
 > Thanksgiving/ university closed
 
 #### week 11 - December 8th Final Exams 3:10pm to 6:00pm
