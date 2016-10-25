@@ -18,25 +18,29 @@
 
 > **Semantic Code and Mobile First design** http://alistapart.com/article/organizing-mobile
 
->Chapter 2, datatypes, functions, variable,  Making a dynamic greeting to landing page p.56  Making a Styled Google Contact Form Uploading to ADA and Git .Working in class to complete and upload the pages to ADA and Github
+>Chapter 2, datatypes, functions, variable,  Making a dynamic greeting to landing page p.56  Making a Styled Google Contact Form Uploading to ADA and Git .Working in class to complete and upload the pages to ADA and Github<br>
 
-> RESOURCES:
-> Getting on Github - https://www.thinkful.com/learn/a-guide-to-using-github-pages/
-> A work about Frameworks - http://alistapart.com/article/frameworks
-> Get Zurb Foundation - http://foundation.zurb.com/sites/download.html/#customizeFoundation
-> Zurb Foundation Documentation - http://foundation.zurb.com/sites/docs/
+> RESOURCES:<br>
+> Getting on Github - https://www.thinkful.com/learn/a-guide-to-using-github-pages/<br>
+> A work about Frameworks - http://alistapart.com/article/frameworks<br>
+> Get Zurb Foundation - http://foundation.zurb.com/sites/download.html/#customizeFoundation<br>
+> Zurb Foundation Documentation - http://foundation.zurb.com/sites/docs/<br>
 
 
 #### week3  -  10/4/2016 - 10/6/2016
 
-> Using Filezila, Project 1 - choose teams, choose site, consider user profiles,site architecture - setting up teams and tasks on blackboard, ASANA, pinterest
-
-> Foundation features, present ASANA and Pinterest inspiration boards for Project 1 Site
-> Project 1- action words and landing page and site architecture with assignments
+> Using Filezila, Project 1 - choose teams, choose site, consider user profiles,site architecture - setting up teams and tasks on blackboard, ASANA, pinterest<br>
+> Foundation features, present ASANA and Pinterest inspiration boards for Project 1 Site<br>
+> Project 1- action words and landing page and site architecture with assignments<br>
 
 #### week4  -  10/11/2016 - 10/13/2016
 
-> DISCUSS READING of Chapter 2 [presentation](https://drive.google.com/a/csueastbay.edu/file/d/0B2NDv4EUdOLkX0NUbjVnNGVTUDg/view?usp=sharing) (review before Tuesdays class) [JSBIN](https://jsbin.com/) - [CODEACADEMY](https://www.codecademy.com/learn/learn-javascript) - [KHAN ACADEMY](https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming) - [CODECOMBAT](https://codecombat.com/students?_cc=LastRicePaint) working with [Hosted Libraries](https://cdnjs.com/libraries/foundation) 
+> DISCUSS READING of Chapter 2 
+<br>[presentation](https://drive.google.com/a/csueastbay.edu/file/d/0B2NDv4EUdOLkX0NUbjVnNGVTUDg/view?usp=sharing) (review before Tuesdays class) 
+<br>[JSBIN](https://jsbin.com/)<br>[CODEACADEMY](https://www.codecademy.com/learn/learn-javascript)
+<br>[KHAN ACADEMY](https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming
+<br>[CODECOMBAT](https://codecombat.com/students?_cc=LastRicePaint)
+<br>Working with [Hosted Libraries](https://cdnjs.com/libraries/foundation) 
 
 > Working on site redesign in class in teams.
 
