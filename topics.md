@@ -38,7 +38,7 @@
 > DISCUSS READING of Chapter 2 
 <br>[presentation](https://drive.google.com/a/csueastbay.edu/file/d/0B2NDv4EUdOLkX0NUbjVnNGVTUDg/view?usp=sharing) (review before Tuesdays class) 
 <br>[JSBIN](https://jsbin.com/)<br>[CODEACADEMY](https://www.codecademy.com/learn/learn-javascript)
-<br>[KHAN ACADEMY](https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming
+<br>[KHAN ACADEMY](https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming)
 <br>[CODECOMBAT](https://codecombat.com/students?_cc=LastRicePaint)
 <br>Working with [Hosted Libraries](https://cdnjs.com/libraries/foundation) 
 
@@ -64,7 +64,9 @@ console.log("test");
 
 #### week7  -  11/1/2016 - 11/3/2016
 
-> 11/3/2015 - CSS Animation - sprites - bring sprite image strip,  what is JQuery and how do we use it? Pinterest for Long Scrolling Site How to trigger animations using javascript and JQuery 11/5/2015 - Lab 4 - Quotes Gallery, Personal Portfolio
+><br>CSS Animation - sprites - bring sprite image strip,  what is JQuery and how do we use it? 
+><br>Pinterest for Long Scrolling Site How to trigger animations using javascript and JQuery
+><br>Lab 4 - Quotes Gallery, Personal Portfolio
 
 #### week8  -  11/8/2016 - 11/10/2016
 
