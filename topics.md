@@ -51,11 +51,13 @@
 > CSS Animation - transition - Discussion of Long Scrolling Site
 > concepts CSS Animation - transform
 
-~~~~<script>
+~~~~
+<script>
 console.log("test");
 document.getElementById('test').onclick = function(){console.log("hello")};
 console.log("test"); 
-</script>~~~~
+</script>
+~~~~
 
 #### week7  -  11/1/2016 - 11/3/2016
 
