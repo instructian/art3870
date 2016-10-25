@@ -47,9 +47,9 @@
 
 #### week6  -  10/25/2016 - 10/27/2016
 
-> DISCUSS **READING of Chapter 3** on TUESDAY, calling functions - if/else, objects, arrays
-> CSS Animation - transition - Discussion of Long Scrolling Site
-> Concepts CSS Animation - transform
+> DISCUSS **READING of Chapter 3** on TUESDAY, calling functions - if/else, objects, arrays<br>
+> CSS Animation - transition - Discussion of Long Scrolling Site<br>
+> Concepts CSS Animation - transform<br>
 ~~~~
 <script>
 console.log("test");
