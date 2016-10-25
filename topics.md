@@ -48,11 +48,11 @@
 #### week6  -  10/25/2016 - 10/27/2016
 
 > DISCUSS **READING of Chapter 3** on TUESDAY, calling functions - if/else, objects, arrays
-~~~~<script>'
-'console.log("test");'
-'document.getElementById('test').onclick = function(){console.log("hello")}; '
-'console.log("test"); '
-'</script>~~~~
+~~~~<script>
+console.log("test");
+document.getElementById('test').onclick = function(){console.log("hello")};
+console.log("test"); 
+</script>~~~~
 > CSS Animation - transition - Discussion of Long Scrolling Site
 > concepts CSS Animation - transform
 
