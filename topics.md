@@ -45,9 +45,9 @@
 
 #### week6  -  10/25/2016 - 10/27/2016
 
-> DISCUSS **READING of Chapter 3** on TUESDAY, calling functions - if/else, objects, arrays
-><br>[Document Object Propreties and Methods](http://www.w3schools.com/jsref/dom_obj_document.asp)
-><br>[DOM Events](http://www.w3schools.com/jsref/dom_obj_event.asp)
+> DISCUSS **READING of Chapter 3** on TUESDAY, calling functions - if/else, objects, arrays<br>
+>[Document Object Propreties and Methods](http://www.w3schools.com/jsref/dom_obj_document.asp)<br>
+>[DOM Events](http://www.w3schools.com/jsref/dom_obj_event.asp)<br>
 > CSS Animation - transition - Discussion of Long Scrolling Site<br>
 > Concepts CSS Animation - transform<br>
 ~~~~
