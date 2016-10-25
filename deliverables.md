@@ -29,7 +29,7 @@
 > Bring sequential images for sprite animation to class on Tuesday 
 > Bring Pinterest for Long Scrolling Site to class on Tuesday CSS
 > Animation Quotes Gallery uploaded to GIT and ADA by **SATURDAY 5:00pm** 
-> Complete the PROJECT LEARNING REFLECTION by **SATURDAY 5:00pm**
+> Complete the Personal Portfolio Page by **SATURDAY 5:00pm**
 
 ##### week8  -  11/8/2016 - 11/10/2016
 > Upload Stylescape for Long Scrolling Site to GIT and ADA and post link to BlackBoard by **SATURDAY 5:00pm** 
