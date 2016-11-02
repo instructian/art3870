@@ -66,6 +66,7 @@ console.log("test");
 >CSS Animation - sprites - bring sprite image strip,  what is JQuery and how do we use it? <br>
 Review this [GIST](https://gist.github.com/instructian/ee0627cee5cd486c0e84b8105e969789)<br>
 https://jsfiddle.net/simurai/CGmCe/<br>
+https://jsbin.com/haqamo/edit?css,output<br>
 >Pinterest for Long Scrolling Site How to trigger animations using javascript and JQuery<br>
 >Lab 4 - Quotes Gallery, Personal Portfolio
 
