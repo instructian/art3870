@@ -15,6 +15,7 @@
 
 ## SPECIAL/ADVANCED TOPICS
 - [Best Practices for Accordion Menu in Web Design](https://webdesignledger.com/best-practices-accordions-in-web-design/)
+- [menucool - Web components for building beautiful websites]http://www.menucool.com/
 
 ## JOB INFORMATION
 
@@ -25,6 +26,7 @@
 - [WEBSITE REDESIGN STRATEGY](http://academy.hubspot.com/projects/customer-projects-website-redesign-strategy) -  The Big Picture! 
 - [Another strategy doc](https://blog.crazyegg.com/2014/01/15/website-redesign-strategy/)
 - [9-STEP WEBSITE REDESIGN CHECKLIST](http://cubicleninjas.com/9-step-website-redesign-checklist/)
+- [Web Design Infographic](https://designmodo.com/web-design-project/)
 
 ## GITHUB TUTORIALS
 - [Team Collaboration With GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876)
@@ -48,6 +50,7 @@
 - [Six Revisions - Web Design Tutorials, News and Articles](http://sixrevisions.com/)
 - [UCreative - Graphic Design Inspiration, Resources & Freebies](http://www.ucreative.com/design/)
 - [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
+- [Designmodo: Web Design Blog and Shop](https://designmodo.com)
 
 ## ADVANCED TOPICS
 
