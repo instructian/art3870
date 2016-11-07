@@ -48,6 +48,7 @@
 - [Six Revisions - Web Design Tutorials, News and Articles](http://sixrevisions.com/)
 - [UCreative - Graphic Design Inspiration, Resources & Freebies](http://www.ucreative.com/design/)
 - [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
+
 ## ADVANCED TOPICS
 
 ***Frontend Technologies***
