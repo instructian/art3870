@@ -43,9 +43,11 @@
 - [Web Design Tuts+ — Web Design Tutorials](https://webdesign.tutsplus.com/)
 - [TNW Design and Dev — Design and Development News](http://thenextweb.com/dd/)
 - [Gather Content](https://gathercontent.com/blog/)
-- [Top 20 UX Design Blogs And Resources You Should Follow in 2016
-](http://www.mockplus.com/blog/post/146-top-20-ux-design-blogs-and-resources-you-should-follow-in-2016/)
-
+- [Top 20 UX Design Blogs And Resources You Should Follow in 2016](http://www.mockplus.com/blog/post/146-top-20-ux-design-blogs-and-resources-you-should-follow-in-2016/)
+- [Designrfix - Graphic Design Inspiration](http://designrfix.com/)
+- [Six Revisions - Web Design Tutorials, News and Articles](http://sixrevisions.com/)
+- [UCreative - Graphic Design Inspiration, Resources & Freebies](http://www.ucreative.com/design/)
+- [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
 ## ADVANCED TOPICS
 
 ***Frontend Technologies***
