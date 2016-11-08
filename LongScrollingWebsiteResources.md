@@ -1,10 +1,10 @@
 # Long Scrolling Website Resources
 
-` <div id="wrapper">
-` <section id="sky">
-` </section>
+` &lt;div id="wrapper"&gt;
+` &lt; section id="sky" &gt;
+` &lt;/section&gt;
 	
-` <figure id ="mrtruck" class="truckleft"><img src="Fracking/truck.png" alt="" /></figure>
+` &lt;figure id ="mrtruck" class="truckleft"&gt;<img src="Fracking/truck.png" alt="" /&gt;</figure&gt;
 	
-` <!-- Highway -->
-` <section id="highway">
+` &lt;!-- Highway --&gt;
+` &lt;section id="highway"&gt;
