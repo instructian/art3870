@@ -168,11 +168,11 @@ $(window).scroll(function(){
 	
 ```
 
-***Here is a sample of how to make things scroll at different speeds on the danger of fracking https://web.archive.org/web/20160610065039/http://www.dangersoffracking.com/***
+*** Here is a sample of how to make things scroll at different speeds on the danger of fracking https://web.archive.org/web/20160610065039/http://www.dangersoffracking.com/ ***
 
-*** Here is a demo on JS Bin that uses scrolling to move a bunch of stuff  https://jsbin.com/Avipihan/edit?html,console,output***
+*** Here is a demo on JS Bin that uses scrolling to move a bunch of stuff  https://jsbin.com/Avipihan/edit?html,console,output ***
 
-*** Here is a demo of clicking on the counter and moving the view https://jsbin.com/IVUYorU/edit?html,js,console,output***
+*** Here is a demo of clicking on the counter and moving the view https://jsbin.com/IVUYorU/edit?html,js,console,output ***
 
 	
 ```
@@ -197,8 +197,11 @@ $(window).scroll(function(){
 		        mymessage.fadeOut('200')
 		    }
 ```
-Above is an example of how you can see if something has scrolled into view. Essentially you are measuring the location of the window from the top of the document start with `$(window).scrollTop();` and the height of the window with `$(window).height()` to determine the bottom location of the window. You now have a top and bottom cordinate, which you can test the location of an object on the page with `((elemBottom >= docViewTop) && (elemTop <= docViewBottom))`.  If the item I am concerned with is visible to the user, do something cool ` if(isScrolledIntoView(myelement)) {mymessage.fadeIn('500');`.
-***Here is a JSBin here to show the version in action.(https://jsbin.com/qoxeni/edit?html,js,console,output)***
+Above is an example of how you can see if something has scrolled into view. Essentially you are measuring the location of the window from the top of the document start with `$(window).scrollTop();` and the height of the window with `$(window).height()` to determine the bottom location of the window. 
+
+You now have a top and bottom cordinate, which you can test the location of an object on the page with `((elemBottom >= docViewTop) && (elemTop <= docViewBottom))`.  If the item I am concerned with is visible to the user, do something cool ` if(isScrolledIntoView(myelement)) {mymessage.fadeIn('500');`.
+
+*** Here is a JSBin here to show the version in action.https://jsbin.com/qoxeni/edit?html,js,console,output ***
 
 ```
 section#ground9 {
@@ -210,8 +213,10 @@ height: 1000px;
 width: 100%;
 }	
 ```
-One last cool thing is the way you can build the content of each "frame".  You can use `position:relative/fixed/absolute; and z-index:1...1000` to stack elements on top of each other  - [more about z-index](http://www.w3schools.com/cssref/tryit.asp?filename=trycss_zindex) is here. You can also [layer backgound images ontop of each other and position them all in one box!](http://www.w3schools.com/css/css3_backgrounds.asp)  here is a demo of that. using backgound-repeat and [using SVG(vector graphics)](https://css-tricks.com/using-svg/)  you can save a lot of space on big graphics and make them all move independent of each other.
+One last cool thing is the way you can build the content of each "frame".  You can use `position:relative/fixed/absolute; and z-index:1...1000` to stack elements on top of each other  - [more about z-index](http://www.w3schools.com/cssref/tryit.asp?filename=trycss_zindex) is here. 
 
-***Here is a nice video from the folks at TreeHouse https://teamtreehouse.com/library/multiple-background-images-with-css***
+You can also [layer backgound images ontop of each other and position them all in one box!](http://www.w3schools.com/css/css3_backgrounds.asp)  here is a demo of that. using backgound-repeat and [using SVG(vector graphics)](https://css-tricks.com/using-svg/)  you can save a lot of space on big graphics and make them all move independent of each other.
 
-***You can even [animate SVG](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/) files***
+*** Here is a nice video from the folks at TreeHouse https://teamtreehouse.com/library/multiple-background-images-with-css ***
+
+*** You can even [animate SVG](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/) files ***
