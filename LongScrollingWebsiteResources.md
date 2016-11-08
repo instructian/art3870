@@ -133,13 +133,9 @@ Above is another example of chjanging the CSS.  This time also the opacity is ch
 
 *** Here is a demo on JS Bin that creates a long box and a counter which tells you the scroll top position https://jsbin.com/fajuxe/edit?html,output***
 
-*** Here is a demo on JS Bin that uses scrolling and if/else to write intot the console https://jsbin.com/eraNuNA/edit?js,console,output***
+*** Here is a demo on JS Bin that uses scrolling and if/else to write into the console https://jsbin.com/eraNuNA/edit?js,console,output***
 
 *** Here is a demo on JS Bin that uses scrolling to hide an object https://jsbin.com/rijomu/2/edit?html,css,output***
-
-*** Here is a demo on JS Bin that uses scrolling to move a bunch of stuff https://jsbin.com/Avipihan/edit?html,console,output***
-
-*** Here is a demo of clicking on the counter and moving the view https://jsbin.com/IVUYorU/edit?html,js,console,output***
 
 ```
 /* Parallax*/
@@ -170,9 +166,13 @@ $(window).scroll(function(){
   		}
 	})
 	
-	
-	```
-Here is a sample of how to make things scroll at different speeds in the danger of fracking.  Here is a JS bin that shows someof these same ideas in action
+```
+
+***Here is a sample of how to make things scroll at different speeds on the danger of fracking https://web.archive.org/web/20160610065039/http://www.dangersoffracking.com/***
+
+*** Here is a demo on JS Bin that uses scrolling to move a bunch of stuff  https://jsbin.com/Avipihan/edit?html,console,output***
+
+*** Here is a demo of clicking on the counter and moving the view https://jsbin.com/IVUYorU/edit?html,js,console,output***
 
 	
 ```
