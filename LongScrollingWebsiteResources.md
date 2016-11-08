@@ -5,7 +5,7 @@ The long scrolling website is a way to tell stories and explore what can be donw
 ```
 	<div id="wrapper">
 ```	
-	The wrapper creates a large "canvass" area that allows you to layout your images. 
+The wrapper creates a large "canvass" area that allows you to layout your images. 
 ```
 html, body {
 margin: 0;
@@ -24,14 +24,14 @@ body a {
 	text-rendering: optimizeLegibility;
 	}
 ```
-body gets a default color and font and the anchor tags get better [text-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering).
+`body` gets a default color and font and the anchor tags get better [text-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering).
 ```
 #wrapper {
 overflow: hidden;
 min-width: 800px;
 }
 ```
-Now the #wrapper hides everything that sits outside the container.  It also sets a minimum width.  You could also specify a max-width to keep things aligned. Find all the [details here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
+Now the `#wrapper` hides everything that sits outside the container.  It also sets a minimum width.  You could also specify a max-width to keep things aligned. Find all the [details here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 
 ```	
 	<!-- Sky -->
@@ -67,7 +67,7 @@ Now the #wrapper hides everything that sits outside the container.  It also sets
 ```
 Here is a sample of some great markup that is semantic (article and sections tags) and well structured.  You can imagine what it migt look like.
 
-Now let's look at the javascript
+Now let's look at the javascript ...
 ```
 
 /*
@@ -82,14 +82,17 @@ Now let's look at the javascript
 
 $(document).ready(function() {
 ```
-The `$(document).ready(function(){ ` is a call for [JQuery](https://jquery.com/) which is needed to run this.  The `$()` is a universal selector. `$(document)` means select the document. `.ready()` asks "is the document fully loaded into the browser?". `function(){ }` is an anonymous function that runs the entire script once. After the document has loaded. Here is the [explanation on JQuery's site](https://learn.jquery.com/using-jquery-core/document-ready/) 
+The `$(document).ready(function(){ ` is a call for [JQuery](https://jquery.com/) which is needed to run this.  The `$()` is a universal selector. `$(document)` means select the document. `.ready()` asks "is the document fully loaded into the browser?". `function(){ }` is an anonymous function that runs the entire script once. 
+
+After the document has loaded. Here is the [explanation on JQuery's site](https://learn.jquery.com/using-jquery-core/document-ready/)
+
 ```
 /*Icon Collection*/
 
 $(window).scroll(function() {
 
 ```
-`$(window).scroll(function() {` This selects the window, and waits unti the user starts to scroll and then runs an anonymous function. You must balance all the parenthesis and braces to make sure it can run!!!! `});` closes this block.
+`$(window).scroll(function() {` This selects the window, and waits until the user starts to scroll and then runs an anonymous function. You must balance all the parenthesis and braces to make sure it can run!!!! `});` closes this block.
 ```	
 JAVASCRIPT
 	/*Droplet*/
@@ -131,11 +134,11 @@ So what you see above then, is an if statement that uses the vertical position a
 ```
 Above is another example of chjanging the CSS.  This time also the opacity is changed. More [info on the .css() method](http://www.w3schools.com/jquery/jquery_css.asp) is here.
 
-*** Here is a demo on JS Bin that creates a long box and a counter which tells you the scroll top position https://jsbin.com/fajuxe/edit?html,output***
+***Here is a demo on JS Bin that creates a long box and a counter which tells you the scroll top position https://jsbin.com/fajuxe/edit?html,output***
 
-*** Here is a demo on JS Bin that uses scrolling and if/else to write into the console https://jsbin.com/eraNuNA/edit?js,console,output***
+***Here is a demo on JS Bin that uses scrolling and if/else to write into the console https://jsbin.com/eraNuNA/edit?js,console,output***
 
-*** Here is a demo on JS Bin that uses scrolling to hide an object https://jsbin.com/rijomu/2/edit?html,css,output***
+***Here is a demo on JS Bin that uses scrolling to hide an object https://jsbin.com/rijomu/2/edit?html,css,output***
 
 ```
 /* Parallax*/
@@ -168,11 +171,11 @@ $(window).scroll(function(){
 	
 ```
 
-*** Here is a sample of how to make things scroll at different speeds on the danger of fracking https://web.archive.org/web/20160610065039/http://www.dangersoffracking.com/ ***
+***Here is a sample of how to make things scroll at different speeds on the danger of fracking https://web.archive.org/web/20160610065039/http://www.dangersoffracking.com/***
 
-*** Here is a demo on JS Bin that uses scrolling to move a bunch of stuff  https://jsbin.com/Avipihan/edit?html,console,output ***
+***Here is a demo on JS Bin that uses scrolling to move a bunch of stuff  https://jsbin.com/Avipihan/edit?html,console,output***
 
-*** Here is a demo of clicking on the counter and moving the view https://jsbin.com/IVUYorU/edit?html,js,console,output ***
+***Here is a demo of clicking on the counter and moving the view https://jsbin.com/IVUYorU/edit?html,js,console,output***
 
 	
 ```
@@ -201,7 +204,7 @@ Above is an example of how you can see if something has scrolled into view. Esse
 
 You now have a top and bottom cordinate, which you can test the location of an object on the page with `((elemBottom >= docViewTop) && (elemTop <= docViewBottom))`.  If the item I am concerned with is visible to the user, do something cool ` if(isScrolledIntoView(myelement)) {mymessage.fadeIn('500');`.
 
-*** Here is a JSBin here to show the version in action.https://jsbin.com/qoxeni/edit?html,js,console,output ***
+***Here is a JSBin here to show the version in action.https://jsbin.com/qoxeni/edit?html,js,console,output***
 
 ```
 section#ground9 {
@@ -217,6 +220,6 @@ One last cool thing is the way you can build the content of each "frame".  You c
 
 You can also [layer backgound images ontop of each other and position them all in one box!](http://www.w3schools.com/css/css3_backgrounds.asp)  here is a demo of that. using backgound-repeat and [using SVG(vector graphics)](https://css-tricks.com/using-svg/)  you can save a lot of space on big graphics and make them all move independent of each other.
 
-*** Here is a nice video from the folks at TreeHouse https://teamtreehouse.com/library/multiple-background-images-with-css ***
+***Here is a nice video from the folks at TreeHouse https://teamtreehouse.com/library/multiple-background-images-with-css***
 
-*** You can even [animate SVG](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/) files ***
+***You can even [animate SVG](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/) files***
