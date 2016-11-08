@@ -4,32 +4,36 @@ The long scrolling website is a way to tell stories and explore what can be donw
 
 ```
 	<div id="wrapper">
-````	
+```	
 	The wrapper creates a large "canvass" area that allows you to layout your images. 
-````
+```
 html, body {
 margin: 0;
 padding: 0;
 }
+```
+The body and html have margins and padding - in this case you want to turn them off so you don't have the default gap.
+
+```
 
 body {
 background: #eaecea;
 font-family: helvetica;
 }
-
-	body a {
+body a {
 	text-rendering: optimizeLegibility;
 	}
-
+```
+body gets a default color and font and the anchor tags get better [text-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering).
+```
 #wrapper {
 overflow: hidden;
 min-width: 800px;
 }
-````
+```
+Now the #wrapper hides everything that sits outside the container.  It also sets a minimum width.  You could also specify a max-width to keep things aligned. Find all the [details here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 
-
-
-````	
+```	
 	<!-- Sky -->
 	<section id="sky">
 			<h2>What goes in and out of</h2>
@@ -57,13 +61,13 @@ min-width: 800px;
 		<img id="cloud4" src="Fracking/clouds3.png" alt=""  />
 		<img id="cloud5" src="Fracking/clouds4.png" alt=""  />
 	</section>
-	
-	<figure id ="mrtruck" class="truckleft"><img src="Fracking/truck.png" alt="" /></figure>
-	
 	<!-- Highway -->
 	<section id="highway">
-	</div>
-```	
+
+```
+Here is a sample of some great markup that is semantic (article and sections tags) and well structured.  You can imagine what it migt look like.
+
+Now let's look at the javascript
 ```
 
 /*
@@ -77,80 +81,58 @@ min-width: 800px;
 /*FRACKING JS - Linda Dong */
 
 $(document).ready(function() {
-
+```
+The `$(document).ready(function(){ ` is a call for [JQuery](https://jquery.com/) which is needed to run this.  The `$()` is a universal selector. `$(document)` means select the document. `.ready()` asks "is the document fully loaded into the browser?". `function(){ }` is an anonymous function that runs the entire script once. After the document has loaded. Here is the [explanation on JQuery's site](https://learn.jquery.com/using-jquery-core/document-ready/) 
+```
 /*Icon Collection*/
 
 $(window).scroll(function() {
-	
+
+```
+`$(window).scroll(function() {` This selects the window, and waits unti the user starts to scroll and then runs an anonymous function. You must balance all the parenthesis and braces to make sure it can run!!!! `});` closes this block
+```	
+JAVASCRIPT
 	/*Droplet*/
 	if ($(this).scrollTop() > 7500) { 
 	    $("#toxin").css({ "position": "fixed", "top": "460px"});
 	} else {
 	    $("#toxin").css({ "position": "absolute", "top": "7500px" });
-	}      
-	if ($(this).scrollTop() > 15200) { 
-	    $("#gas").css({ "position": "fixed", "top": "335px"});
-	} else {
-	    $("#gas").css({ "position": "absolute", "top": "15180px" });
 	}   
-	
-	/* Tokens */
-	if ($(this).scrollTop() > 3850) { 
-	    $("#icontruck").css({ "position": "fixed", "top": "0px", "opacity": "1"});
-	} else {
-	    $("#icontruck").css({ "position": "absolute", "top": "3850px", "opacity": ".4" });
-	}     
-	if ($(this).scrollTop() > 4720) { 
-	    $("#iconwater").css({ "position": "fixed", "top": "0px", "opacity": "1"});
-	} else {
-	    $("#iconwater").css({ "position": "absolute", "top": "4720px", "opacity": ".4"  });
-	}     
-	if ($(this).scrollTop() > 7610) { 
-	    $("#icontoxic").css({ "position": "fixed", "top": "0px", "opacity": "1"});
-	} else {
-	    $("#icontoxic").css({ "position": "absolute", "top": "7610px", "opacity": ".4"  });
+```
+Working with JS and CSS
+```
+CSS
+	#toxin {
+	width: 36px;
+	height: 46px;
+	background: url(/web/20160610180812/http://www.dangersoffracking.com/Fracking/toxin.png);
+	position: absolute;
+	top: 7500px;
+	z-index: 202;
+	left: 50%;
+	margin-left: -18px;
 	}
-	if ($(this).scrollTop() > 6250) { 
-	    $("#iconfluid2").css({ "position": "fixed", "top": "0px", "opacity": "1"});
-	} else {
-	    $("#iconfluid2").css({ "position": "absolute", "top": "6250px", "opacity": ".4"  });
-	}  
-	if ($(this).scrollTop() > 17100) { 
-	    $("#iconmethane").css({ "position": "fixed", "top": "0px", "opacity": "1"});
-	} else {
-	    $("#iconmethane").css({ "position": "absolute", "top": "17100px", "opacity": ".4"  });
-	}  
-	if ($(this).scrollTop() > 18640) { 
-	    $("#iconnowater").css({ "position": "fixed", "top": "0px", "opacity": "1"});
-	} else {
-	    $("#iconnowater").css({ "position": "absolute", "top": "18640px", "opacity": ".4"  });
-	}  
-	if ($(this).scrollTop() > 18640) { 
-	    $("#iconhealth").css({ "position": "fixed", "top": "0px", "opacity": "1"});
-	} else {
-	    $("#iconhealth").css({ "position": "absolute", "top": "18640px", "opacity": ".4"  });
-	}  
-	if ($(this).scrollTop() > 20600) { 
-	    $("#iconfluid").css({ "position": "fixed", "top": "0px", "opacity": "1"});
-	} else {
-	    $("#iconfluid").css({ "position": "absolute", "top": "20600px", "opacity": ".4"  });
-	}  
-	if ($(this).scrollTop() > 21600) { 
-	    $("#iconair").css({ "position": "fixed", "top": "0px", "opacity": "1"});
-	} else {
-	    $("#iconair").css({ "position": "absolute", "top": "21600px", "opacity": ".4"  });
-	} 
+```
+Together with the CSS, `$(this)` selects the window which was selected above you could also write `$(window)`. `.scrollTop()` is a method for the window which tells us how far from the top of the document the beginning of the selected window is. It can do this for any selected element!.  The Documentation is here for [scrollTop](https://api.jquery.com/scrollTop/) and here for [scrollLeft](https://api.jquery.com/scrollleft/).
+
+The `$("#toxin").css({ "position": "absolute", "top": "7500px" });` changes the CSS of the element with the id #toxin to `position: absolute` and  `top: 7500px`
+
+The [If/Else statement](http://www.w3schools.com/js/js_if_else.asp) uses a [greater than comparison operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Greater_than_operator_(>)) to determine if one number is greater than another number.  in this case `scrollTop` 
+aginsts the fixed value of 7500.  Because this whole thing is sitting INSIDE the `$(window).scroll()` function, the number of `.scrollTop()` is updated everytime the user scrolls the page.
+
+So what you see above then, is an if statement that uses the vertical position as a number input and checks to see if you have scrolled more than 7500 pixels. While you are LESS than 7500 pixels (the else statement) the element with the id 
+
+```	
 	if ($(this).scrollTop() > 22320) { 
 	    $("#icongas").css({ "position": "fixed", "top": "0px", "opacity": "1"});
 	} else {
 	    $("#icongas").css({ "position": "absolute", "top": "22320px", "opacity": "1"  });
 	}  
-	                   
-});
+```
+Above is another example of chjanging the CSS.  This time also the opacity is changed. More [info on the .css() method](http://www.w3schools.com/jquery/jquery_css.asp) is here.
 
-
+```
 /* Parallax*/
-
 $(window).scroll(function(){
 	
 	/*Clouds*/
@@ -159,6 +141,7 @@ $(window).scroll(function(){
     		return 350 - $(window).scrollTop() * 1.3;
   		}
   	});	
+	
 	$("#cloud2").css({
   		top: function(index, value) {
     		return 500 - $(window).scrollTop() * 1.5;
@@ -168,141 +151,21 @@ $(window).scroll(function(){
   		top: function(index, value) {
     		return 590- $(window).scrollTop() * .2;
   		}
-	});	
-	$("#cloud4").css({
-  		top: function(index, value) {
-    		return 420- $(window).scrollTop() * .5;
-  		}
-	});	
-	$("#cloud5").css({
-  		top: function(index, value) {
-    		return 775- $(window).scrollTop() * 1.7;
-  		}
-	});	
-	$("#cloud6").css({
-  		top: function(index, value) {
-    		return 1550- $(window).scrollTop() * .6;
-  		}
-	});	
-	$("#cloud7").css({
-  		top: function(index, value) {
-    		return 1050- $(window).scrollTop() * .4;
-  		}
-	});	
-	$("#cloud8").css({
-  		top: function(index, value) {
-    		return 1800- $(window).scrollTop() * 1.3;
-  		}
-	});	
-	$("#cloud9").css({
-  		top: function(index, value) {
-    		return 2500- $(window).scrollTop() * 1.1;
-  		}
 	});
 	
-	/*Road*/
-	$("#house").css({
-  		top: function(index, value) {
-    		return 4500- $(window).scrollTop() * 1.1;
-  		}
-	});
-	$("#house2").css({
-  		top: function(index, value) {
-    		return 7000- $(window).scrollTop() * 1.1;
-  		}
-	});
-	$("#house3").css({
-  		top: function(index, value) {
-    		return 8600- $(window).scrollTop() * 1.1;
-  		}
-	});
-	
-	/*Rig*/
-	$("#clouda").css({
-  		top: function(index, value) {
-    		return 3400- $(window).scrollTop() * .4;
-  		}
-	});
-	$("#cloudb").css({
-  		top: function(index, value) {
-    		return 9400- $(window).scrollTop() * 1.3;
-  		}
-	});
-	$("#cloudc").css({
-  		top: function(index, value) {
-    		return 2500- $(window).scrollTop() * .3;
-  		}
-	});
-	$("#cloudc2").css({
-  		top: function(index, value) {
-    		return 10500- $(window).scrollTop() * 1.3;
-  		}
-	});
-	
-	/*Aquifer*/
-	$("#bubbles").css({
-  		top: function(index, value) {
-    		return 10400- $(window).scrollTop() * .6;
-  		}
-	});
-	$("#bubbles2").css({
-  		top: function(index, value) {
-    		return 5200- $(window).scrollTop() * .3;
-  		}
-	});
-	$("#bubbles3").css({
-  		top: function(index, value) {
-    		return 6100- $(window).scrollTop() * .3;
-  		}
-	});
+
 	$("#bubbles4").css({
   		top: function(index, value) {
     		return 15900- $(window).scrollTop() * .9;
   		}
 	})
-	$("#cloudd").css({
-  		top: function(index, value) {
-    		return 7200- $(window).scrollTop() * .3;
-  		}
-	});
-	$("#cloude").css({
-  		top: function(index, value) {
-    		return 22200- $(window).scrollTop() * 1.0;
-  		}
-	});
-	$("#cloudf").css({
-  		top: function(index, value) {
-    		return 17400- $(window).scrollTop() * .8;
-  		}
-	});
-		
-});	
 	
-				
-/*Disappear*/ 
-			
-	$(window).scroll(function() {
-		if(isScrolledIntoView('#road')) {
-			$("#drop").css({"display": "none"});
-			}
-		else {
-			$("#drop").css({"display": ""});
-			}
-
-		if(isScrolledIntoView('#pipe')) {
-			$("#mrtruck").css({"display": "none"});
-			}
-		else {
-			$("#mrtruck").css({"display": ""});
-			}
 	
-		if(isScrolledIntoView('#pipe')) {
-			$("#meter").css({"-webkit-transform": "rotate(0deg)"});
-			}
-		else {
-			$("#meter").css({"-webkit-transform": "rotate(-180deg)"});
-			}
-	});
+	```
+	
+	
+	
+	```
 
 
 /*Articles*/
