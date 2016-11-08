@@ -87,4 +87,4 @@ http://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/<br>
 
 ### week 11 - December 8th Final Exams 3:10pm to 6:00pm
 > LSS Presentations
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yGENcskRGRk" frameborder="0" allowfullscreen></iframe>
+[How and Why to Give an Ignite Talk - Scott Berkun](https://www.youtube.com/embed/yGENcskRGRk)
