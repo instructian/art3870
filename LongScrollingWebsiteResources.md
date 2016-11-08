@@ -1,7 +1,8 @@
 # Long Scrolling Website Resources
 
 
-```<div id="wrapper">
+```
+	<div id="wrapper">
 	<!-- Sky -->
 	<section id="sky">
 			<h2>What goes in and out of</h2>
@@ -34,4 +35,5 @@
 	
 	<!-- Highway -->
 	<section id="highway">
+	</div>
 ```	
