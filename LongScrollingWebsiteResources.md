@@ -134,7 +134,7 @@ So what you see above then, is an if statement that uses the vertical position a
 ```
 Above is another example of chjanging the CSS.  This time also the opacity is changed. More [info on the .css() method](http://www.w3schools.com/jquery/jquery_css.asp) is here.
 
-***Here is a demo on JS Bin that creates a long box and a counter which tells you the scroll top position https://jsbin.com/fajuxe/edit?html,output***
+***Here is a demo on JS Bin that creates a long box and a counter which tells you the scroll top position https://jsbin.com/bupabu/7/edit?html,css,js,output***
 
 ***Here is a demo on JS Bin that uses scrolling and if/else to write into the console https://jsbin.com/eraNuNA/edit?js,console,output***
 
