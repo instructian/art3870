@@ -84,7 +84,7 @@ http://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/<br>
 > LSS with one change LSS with two changes
 > Thanksgiving/ university closed
 
-#### week11  -  11/29/2016 - 11/31/2016
+#### week11  -  11/29/2016 - 12/1/2016
 
 > Questions and Answers, working in class on LSS<br>
 
