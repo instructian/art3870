@@ -75,12 +75,16 @@ http://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/<br>
 
 > Stylescape for Long Scrolling Site Building a Frame and counter for LSS
 
-#### week9  -  11/22/2016 - 11/29/2016
+#### week9  -  11/15/2016 - 11/17/2016
+
+> Long Scrolling Site -  Building a Frame and counter for LSS
+
+#### week10  -  11/22/2016 - 11/29/2016
 
 > LSS with one change LSS with two changes
 > Thanksgiving/ university closed
 
-#### week10  -  11/29/2016 - 11/31/2016
+#### week11  -  11/29/2016 - 11/31/2016
 
 > Questions and Answers, working in class on LSS<br>
 
