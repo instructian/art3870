@@ -80,7 +80,7 @@ http://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/<br>
 > Long Scrolling Site -  Building a Frame and counter for LSS
 
 #### week10  -  11/22/2016 - 11/29/2016
-
+> MONDAY 5-7 STUDYHALL
 > LSS with one change LSS with two changes
 > Thanksgiving/ university closed
 
