@@ -1,4 +1,7 @@
 ## Weekly Topics for ART3870 Web Development
+
+This list outlines the work for each week and readings/links that you should review before the start of each class.  The web is a rapidly evolving technology and building a personal list of resources that will help you stay current is critical.
+
 #### week1  -  9/22/2016
 
 > https://youtu.be/W4AViRgrgkU
