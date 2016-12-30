@@ -1,9 +1,9 @@
-TUESDAY
+#TUESDAY
 - Introductions
 - Add/Drop  - Prereq Check
 - Review Syllabus
 - Questions and Answers
-Break
+##Break
  - Register on github
  - Create a Repository with a Readme File
  - Create Base folder for all your work
