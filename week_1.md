@@ -10,23 +10,29 @@
  - [ ] Create a Repository with a Readme File
  - [ ] Create Base folder for all your work
  - [ ] Create folders for Labs and Projects
- - [ ] have a basic placeholder in each folder called index.html
- - [ ] have folder for css, images and javascript in each folder
- - [ ] upload to github using chrome drag and drop
- - [ ] configure your GitHub userpages as shown here
- - [ ] wait a few minutes and check
- - [ ] take screenshots of all your pages using awesome screenshot
- - [ ] fill out this template and save it as a PDF 
- - [ ] go to blackboard and open the assignment
- - [ ] attach the pdf and past the github repository and github userpage URL to each index file in the comments and submit your assignment.
+ - [ ] Have a basic placeholder in each folder called index.html
+ - [ ] Have folder for css, images and javascript in each folder
+ - [ ] Upload to github using chrome drag and drop
+ - [ ] Configure your GitHub userpages as shown here
+ - [ ] Validate the github.io pages with the [HTML Validtor](https://validator.w3.org/nu/)
+ - [ ] Take screenshots of all your pages using awesome screenshot
+ - [ ] Fill out this [template](art3870/ART 3870 PROJECT SUBMISSION TEMPLATE.doc) and save it as a PDF 
+ - [ ] Go to blackboard and open the assignment
+ - [ ] Attach the pdf and past the github repository and github userpage URL to each index file in the comments and submit your assignment.
  
 # THURSDAY
 ## Prior to class
   - [ ] Watch This
   - [ ] Read This
-  - [ ] 
-  - [ ]
+## In Class  
+  - [ ] Download Zurb Foundation for sites - [kitchen sink](http://foundation.zurb.com/sites/getting-started.html)
+  - [ ] Extract and copy the js and css folders into the root, project and lab folders
+  - [ ] Create new version of your homepage and your bio page that uses Zurb Foundation
+  - [ ] Extract and copy the js and css folders into the root, project and lab folders
+
+  
 ## Break
+
   - [ ]
   - [ ]
   - [ ]
