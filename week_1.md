@@ -16,7 +16,7 @@
  - [ ] Configure your GitHub userpages as shown here
  - [ ] Validate the github.io pages with the [HTML Validtor](https://validator.w3.org/nu/)
  - [ ] Take screenshots of all your pages using awesome screenshot
- - [ ] Fill out this [template](art3870/ART 3870 PROJECT SUBMISSION TEMPLATE.doc) and save it as a PDF 
+ - [ ] Fill out this [template](ART 3870 PROJECT SUBMISSION TEMPLATE.doc) and save it as a PDF 
  - [ ] Go to blackboard and open the assignment
  - [ ] Attach the pdf and past the github repository and github userpage URL to each index file in the comments and submit your assignment.
  
