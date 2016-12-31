@@ -19,12 +19,12 @@
  
 # THURSDAY
 ## Prior to class
- - Watch This Intro to the Foundation Grid and how to use it https://youtu.be/j8QbGRzCm4g
- - Watch This Intro to Semantic Markup and how to use it https://youtu.be/Eyndz5R-Vkg
- - Read This [Using Layout Grids Effectively](https://www.designersinsights.com/designer-resources/using-layout-grids-effectively/)
+ - Watch this Connecting - Trends in UI, Interaction, & Experience Design https://youtu.be/lciYKwVLTuk
+ - Watch this Intro to the Foundation Grid and how to use it https://youtu.be/j8QbGRzCm4g
+ - Watch this Intro to Semantic Markup and how to use it https://youtu.be/Eyndz5R-Vkg
+ - Read this [Using Layout Grids Effectively](https://www.designersinsights.com/designer-resources/using-layout-grids-effectively/)
 
 ## In Class
-
  - Download Zurb Foundation for sites - [kitchen sink](http://foundation.zurb.com/sites/getting-started.html)
  - Extract and copy the js and css folders into the root, project and lab folders
  - Create new version of your homepage and your bio page that uses Zurb Foundation
