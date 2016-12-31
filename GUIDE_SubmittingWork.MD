@@ -1,0 +1,35 @@
+ - Take screenshots of all your pages using [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) or a similar app
+ - Download and fill out this [template](ART 3870 PROJECT SUBMISSION TEMPLATE.doc) and save it as a PDF 
+ - Go to blackboard and open the assignment
+ - Attach the pdf and past the github repository and github userpage URL to each index file in the comments and submit your assignment.
+
+## ART 3870 PROJECT SUBMISSION TEMPLATE 
+Complete this template, export to pdf and submit on blackboard
+
+NAME:
+
+NET ID: 
+
+COURSE:  YEAR (2017)/ QUARTER (FA, WI, SP) /SECTION (01, 02)
+
+Project Title:
+
+Project Description:
+
+Project URL on github.com:
+
+Project URL on github.io:
+
+Project URL on ada.csueastbay.edu:
+
+Project Sketches:
+(one for each page in the project – scaled to take the whole page width, not distorted/stretched)
+
+Project Design considerations:
+(Explain 3 of your major design decisions)
+
+Project Screenshots:
+(one for each page in the project – scaled to take the whole page width, not distorted/stretched)
+
+Project Reflection:
+(250 words – reflective writing –What was the most challenging part? What was the most exciting part now that the project is done? What did you learn in this assignment, what is your biggest takeaway?)
