@@ -8,10 +8,14 @@ This page serves as the starting point for all your work in this class. Please m
 
 ## Specifications:
 
- - Pages must be responsive using ZURB FOUNDATION's layout grid
- - Pages must use HTML5, CSS, and JS
- - Pages must validate on w3 Validator without erors and have the link on the bottom of the page as in the demo.
- - Pages must use a custom google font 
- - Pages must incorporate the javascript snippet and a greeting based on the day or time
-
+ - Pages are responsive using ZURB FOUNDATION's layout grid
+ - Pages use HTML5, CSS, and JS
+ - Pages use semantic html5 tags when appropriate
+ - Pages validate on w3 Validator
+ - Pages use a custom Google font 
+ - Pages incorporate the javascript snippet and a greeting based on the day or time
+ - Pages are visually interesting and well designed
+ - Pages communicate clearly
+ - Work is submitted using the completed template on blackboard and uploaded to github
+ 
 ## Due Date: END OF WEEK 2
