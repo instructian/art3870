@@ -34,8 +34,10 @@
  - Use ZURB Foundation to markup your design using the ZURB .row .columns classes and article, section, h1-6 and p semantic tags
  - When using images - they must be sized for the web, use the .small- .large- classes to se the size  - not width and height!
  - Validate the github.io pages with the [HTML Validtor](https://validator.w3.org/nu/) and the outliner
- - Submit work as outlined here
+ - Submit work as outlined in [art3870/GUIDE_SubmittingWork.md](GUIDE_SubmittingWork.md)
+ 
 ### RESOURCES
+
  - Basic HTML Document Structure https://youtu.be/o4nVt4In8vk
  - What is ZURB Foundation
  - What is a design / layout grid?https://www.designersinsights.com/designer-resources/using-layout-grids-effectively/
