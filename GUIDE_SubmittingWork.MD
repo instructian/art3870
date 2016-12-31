@@ -1,6 +1,6 @@
  - Scan / photograph your sketches
  - SCREENSHOT your all your pages using [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) or a similar app
- - COMPLETE this [template](ART 3870 PROJECT SUBMISSION TEMPLATE.doc) and save it as a PDF 
+ - COMPLETE this [template](FORM_ART3870_ProjectSubmissionTemplate.doc) and save it as a PDF 
  - Go to [blackboard](http://bb.csueastbay.edu) and open the assignment
  - Attach the PDF and post the github repository and github userpage URL to each index file in the comments and submit your assignment.
 
