@@ -17,6 +17,6 @@ This page serves as the starting point for all your work in this class. Please m
  - Pages incorporate the javascript snippet and a greeting based on the day or time
  - Pages are visually interesting and well designed
  - Pages communicate clearly
- - Work is submitted using the completed template on blackboard and uploaded to github
+ - Work is submitted using the completed template on blackboard(sketches, screenshots, reflection, etc.) and uploaded to github
  
 ## Due Date: END OF WEEK 2
