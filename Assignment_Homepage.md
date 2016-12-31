@@ -12,6 +12,7 @@ This page serves as the starting point for all your work in this class. Please m
  - Pages use HTML5, CSS, and JS
  - Pages use semantic html5 tags when appropriate
  - Pages validate on w3 Validator
+ - All links work error free
  - Pages use a custom Google font 
  - Pages incorporate the javascript snippet and a greeting based on the day or time
  - Pages are visually interesting and well designed
