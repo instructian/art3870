@@ -3,12 +3,9 @@
 - [ ] Add/Drop  - Prereq Check
 - [ ] Review Syllabus
 - [ ] Questions and Answers
-
-## Break
-
- - [ ] Register and account on github.com
- - [ ] Create a Repository with a Readme.md file
- - [ ] Create Base folder for all your work
+- [ ] Register and account on github.com
+- [ ] Create a Repository with a Readme.md file
+- [ ] Create Base folder for all your work
  - [ ] Create folders for Labs and Projects
  - [ ] Have a basic placeholder in each folder called index.html
  - [ ] Have folder for css, images and javascript in each folder
@@ -25,7 +22,9 @@
   - [ ] Watch This Intro to the Foundation Grid and how to use it https://youtu.be/j8QbGRzCm4g
   - [ ] Watch This Intro to Semantic Markup and how to use it https://youtu.be/Eyndz5R-Vkg
   - [ ] Read This [Using Layout Grids Effectively](https://www.designersinsights.com/designer-resources/using-layout-grids-effectively/)
-## In Class  
+
+## In Class
+
   - [ ] Download Zurb Foundation for sites - [kitchen sink](http://foundation.zurb.com/sites/getting-started.html)
   - [ ] Extract and copy the js and css folders into the root, project and lab folders
   - [ ] Create new version of your homepage and your bio page that uses Zurb Foundation
