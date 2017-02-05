@@ -14,4 +14,3 @@ Do this instead:
     <link rel="stylesheet" href="css/app.css">
 
 First load fonts, then frameworks, then your project specific css.
-
