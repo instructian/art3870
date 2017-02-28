@@ -1,18 +1,18 @@
 # Long Scrolling Website Resources
-The long scrolling website is a way to tell stories and explore what can be donw with a little javascript and a lot of creativity.  Much of the code below is based on a great site created by Linda Dong called the Dangers of Fracking which is archived here https://web.archive.org/web/20160610065039/http://www.dangersoffracking.com/
+The long scrolling website is a way to tell stories and explore what can be down with a little javascript and a lot of creativity.  Much of the code below is based on a great site created by Linda Dong called the Dangers of Fracking which is archived here https://web.archive.org/web/20160610065039/http://www.dangersoffracking.com/
 
+## STEP ONE - Defining the document. Adding Normalize CSS.
 
-```
-	<div id="wrapper">
-```	
-The wrapper creates a large "canvass" area that allows you to layout your images. 
+Set up a basic page and remove all the default spacing.  Using a normalize (previousluy reset) to set up defaults is an important step.
+More information is here http://nicolasgallagher.com/about-normalize-css/
 ```
 html, body {
 margin: 0;
 padding: 0;
+
 }
 ```
-The body and html have margins and padding - in this case you want to turn them off so you don't have the default gap.
+If you don't use the normalize, minimally do this to the body. The body and html have margins and padding - in this case you want to turn them off so you don't have the default gap.
 
 ```
 
@@ -25,6 +25,14 @@ body a {
 	}
 ```
 `body` gets a default color and font and the anchor tags get better [text-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering).
+
+## STEP TWO - Adding a "wrapper".
+The wrapper creates a large "canvas" area that allows you to layout your images. 
+
+```
+	<div id="wrapper">
+```	
+
 ```
 #wrapper {
 overflow: hidden;
@@ -32,6 +40,8 @@ min-width: 800px;
 }
 ```
 Now the `#wrapper` hides everything that sits outside the container.  It also sets a minimum width.  You could also specify a max-width to keep things aligned. Find all the [details here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
+
+You could also use width:800px and margin: 0 auto; for a fixed width wrapper
 
 ```	
 	<!-- Sky -->
@@ -66,6 +76,8 @@ Now the `#wrapper` hides everything that sits outside the container.  It also se
 
 ```
 Here is a sample of some great markup that is semantic (article and sections tags) and well structured.  You can imagine what it migt look like.
+
+## STEP THREE - Adding some javascript.
 
 Now let's look at the javascript ...
 ```
