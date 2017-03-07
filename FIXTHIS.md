@@ -6,6 +6,8 @@
           </script>
           </body>
 ```
+### every _class="column.."_ needs to be inside of a _class="row"_
+
 ### Make sure the links work both on github.com and github.io
 
 ### Your web design work for this class should link from your portfolio page
