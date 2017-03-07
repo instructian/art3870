@@ -1,4 +1,5 @@
-'     \<script>
-'      $(document).foundation();
-'    \</script>
-'\</body>
+'''    \<script>
+     $(document).foundation();
+    \</script>
+\</body>
+'''
